@@ -1,0 +1,14 @@
+html,
+body {
+  margin: none;
+  background: url(sea-sunset.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+
+h1 {
+  text-align: center;
+  color: whitesmoke;
+  font-size: 5rem;
+}
